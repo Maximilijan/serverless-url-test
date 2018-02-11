@@ -1,0 +1,6 @@
+{
+  "BUCKET": "url-bucket",
+  "REGION": "eu-west-1",
+  "STAGE": "dev",
+  "API_URL": ""
+}
